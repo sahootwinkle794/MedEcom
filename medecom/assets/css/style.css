@@ -1,0 +1,14 @@
+
+ .shop_bg {
+    background: url(/assets/img/bg1.png)!important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    border-radius: 20.2295px !important;
+    color: white;
+}
+.shop_banner{
+    background: url(/assets/img/bg2.png)!important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    padding: 36px;
+}
