@@ -1,14 +1,24 @@
 
  .shop_bg {
-    background: url(/assets/img/bg1.png)!important;
+    background: url(https://user-images.githubusercontent.com/103883052/211195203-65fed115-4167-4a17-b836-ab626e93ce82.png)!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     border-radius: 20.2295px !important;
     color: white;
 }
 .shop_banner{
-    background: url(/assets/img/bg2.png)!important;
+    background: url(https://user-images.githubusercontent.com/103883052/211195222-2f8c3432-22bd-4f2c-8e86-c5733b72727e.png)!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     padding: 36px;
+}
+.wellness{
+    background: url(https://user-images.githubusercontent.com/103883052/211196141-d62c58b6-8244-4c9a-abe4-87a6d425cb01.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    padding: 40px;
+ 
+}
+.wellness h3{
+    color: white;
 }
