@@ -22,3 +22,18 @@
 .wellness h3{
     color: white;
 }
+footer{
+    background-color: rgba(11, 35, 115, 1);
+    color: white;
+    padding: 10px;
+}
+footer ul{
+    list-style: none;
+}
+footer li{
+    margin-bottom: 15px;
+}
+
+.content{
+    text-align: justify;
+}
